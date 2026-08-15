@@ -1,9 +1,9 @@
 {
-  "versionCode": 13,
+  "versionCode": 14,
   "versionName": "5.2.1",
   "apkUrl": "https://raw.githubusercontent.com/onono2012/sqhelper/main/sqhelper.apk|https://gh-proxy.com/https://raw.githubusercontent.com/onono2012/sqhelper/main/sqhelper.apk|https://ghfast.top/https://raw.githubusercontent.com/onono2012/sqhelper/main/sqhelper.apk|https://ghproxy.net/https://raw.githubusercontent.com/onono2012/sqhelper/main/sqhelper.apk",
-  "apkMd5": "257691df6477b7d086b67484a61ef54a",
+  "apkMd5": "2c70ca357d62e4027065a98631b3dfe4",
   "signSha1": "FB:B6:38:8F:4B:74:64:F1:BD:B1:9F:62:BB:F1:00:F5:D1:4F:17:EC",
-  "changelog": "1. 新增多线路更新下载（GitHub+多个加速镜像自动重试），解决部分地区无法更新问题\n2. 优化更新检查稳定性",
+  "changelog": "1. 新增多线路更新下载\n2. 新增手动下载入口（网盘分享）",
   "force": false
 }
