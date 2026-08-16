@@ -1,9 +1,9 @@
 {
-  "versionCode": 15,
-  "versionName": "5.3",
+  "versionCode": 18,
+  "versionName": "5.3.3",
   "apkUrl": "https://raw.githubusercontent.com/onono2012/sqhelper/main/sqhelper.apk|https://gh-proxy.com/https://raw.githubusercontent.com/onono2012/sqhelper/main/sqhelper.apk|https://ghfast.top/https://raw.githubusercontent.com/onono2012/sqhelper/main/sqhelper.apk|https://ghproxy.net/https://raw.githubusercontent.com/onono2012/sqhelper/main/sqhelper.apk",
-  "apkMd5": "d05464f459ea39c995da657751cf9196",
+  "apkMd5": "fdc86211fd8307b72cb45c1b03c6375f",
   "signSha1": "FB:B6:38:8F:4B:74:64:F1:BD:B1:9F:62:BB:F1:00:F5:D1:4F:17:EC",
-  "changelog": "1. 全新三 tab 分页导航（首页/配置/设置）\n2. 国网绿主题 + 顶部跑马灯\n3. 在线题库分类下载，题库一键获取\n4. 设置页新增「版本公告」，完整记录每个版本变化",
+  "changelog": "1. AI 制作题库：新增「漏题对账」——整理结果自动显示原文切分段数，一眼发现漏题\n2. AI 制作题库：新增「答案校验」——核对答案字母与选项个数，提示可能答错的题\n3. 修复 AI 制作题库 xlsx 导入若干问题，支持更多格式",
   "force": false
 }
